@@ -6,7 +6,7 @@ COPY package*.json ./
 
 COPY . .
 
-RUN yarn global add elm@0.19.0-bugfix2 \
+RUN yarn global add elm@0.19.0-bugfix6 \
  && yarn global add elm-test@0.19.0-beta11
 
 # ENTRYPOINT ["elm"]
