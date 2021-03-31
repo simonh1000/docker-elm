@@ -1,6 +1,6 @@
 # docker-elm
 
-Simple Elm 0.19 container for Circle CI
+Simple Elm 0.19.1 container for Circle CI
 
 ```
 $ docker build -t hotbelgo/docker-elm .
